@@ -1,0 +1,20 @@
+		Customer Receipt
+		----------------
+
+Customer Name: Lauren kenyan
+Specials reservation no: 1
+Number of seats: 2
+Orders                                                  Price
+------------------------------------------------------------------------------
+
+Espresso ordered      : AMERICANO                RM        6
+Frappe ordered        : BUTTERSCOTCH CARAMEL           RM        7
+Tea ordered           : EARL GREY           RM      4.5
+Afternoon special item: COFFEE JELLY                RM      4
+Afternoon special reservation fee                           RM    10
+Government tax                                              RM   20
+_________________________________________________________________________
+
+Total Amount                                                RM   51
+
+Thank you and have a nice day, May Allah bless you!
