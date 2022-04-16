@@ -1,10 +1,8 @@
-/*                           GROUP PROJECT
-                   Coffee Shop Menu Management System (Group 5)
+/*                           CSCI 1300 PROJECT
+                      Coffee Shop Menu Management System
              -> The system allows customers to view menu make an order, add, delete, update, search 
 			    and displays details of the order to the customer. 
-			 -> *author: Lazeena (2027718) 
-			    *section: 3   
-				------------------------------------------------------------------------------------    
+	     -> *author: Lazeena  
 */
 //All libraries included for program 
 #include <iostream>
