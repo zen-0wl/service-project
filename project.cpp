@@ -2,7 +2,6 @@
                       Coffee Shop Menu Management System
              -> The system allows customers to view menu make an order, add, delete, update, search 
 			    and displays details of the order to the customer. 
-	     -> *author: Lazeena  
 */
 //All libraries included for program 
 #include <iostream>
